@@ -15,6 +15,3 @@ Todo o projeto foi planejado e executado seguindo uma estrutura de tarefas organ
 
 📌 Acesse o Trello utilizado no planejamento e desenvolvimento do projeto:  
 🔗 [Quadro no Trello](https://trello.com/b/RJr1qJ1x/pandas)
-
-## 📁 Estrutura do Projeto
-
